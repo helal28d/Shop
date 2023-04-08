@@ -4,6 +4,7 @@ import Navbar from "./Components/Navbar/Navbar";
 import Home from "./Pages/Home/Home";
 import Product from "./Pages/Product/Product";
 import Products from "./Pages/Products/Products";
+import "./App.scss";
 const Layout = () => {
   return (
     <div className="app">
